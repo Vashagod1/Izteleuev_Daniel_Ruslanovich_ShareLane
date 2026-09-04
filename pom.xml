@@ -15,12 +15,10 @@
     </properties>
 
     <dependencies>
-
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-java</artifactId>
-            <version>4.28.0</version>
-            <scope>compile</scope>
+            <version>4.48.0</version>
         </dependency>
 
         <dependency>
@@ -29,7 +27,6 @@
             <version>4.13.2</version>
             <scope>test</scope>
         </dependency>
-
     </dependencies>
 
 </project>
